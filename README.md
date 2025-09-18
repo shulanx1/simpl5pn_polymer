@@ -1,4 +1,4 @@
-# simpl5pn_temperature_modulation
+# simpl5pn_polymer
 
 * a 4 compartment (soma-AIS, basal, proximal apical, distal apical) simplified l5 pn biophysical model for simulation of photothermal and photoelectrical modulation by n-PBDF, for the manuscript "Blood-Catalyzed n-Doped Polymers for Reversible Optical Neural Control"
 
