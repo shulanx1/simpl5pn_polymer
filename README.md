@@ -1,6 +1,6 @@
 # simpl5pn_temperature_modulation
 
-* a 4 compartment (soma-AIS, basal, proximal apical, distal apical) simplified l5 pn biophysical model with temperature sensitivity in ion channels
+* a 4 compartment (soma-AIS, basal, proximal apical, distal apical) simplified l5 pn biophysical model for simulation of photothermal and photoelectrical modulation by n-PBDF, for the manuscript "Blood-Catalyzed n-Doped Polymers for Reversible Optical Neural Control"
 
 ### Python environment Requirement ###
 * python 3.7
@@ -44,4 +44,4 @@
  
 
 ### contact ###
-For any questions, please contact kjayant@purdue.edu.
+For any questions, please contact Dr. Jianguo Mei (jgmei@purdue.edu) and Dr. Krishna Jayant (kjayant@purdue.edu).
